@@ -1,0 +1,7 @@
+C:\Tareas\Design Patterns\ResponsabilityChain-master\ResponsabilityChain\bin\Debug\ResponsabilityChain.exe.config
+C:\Tareas\Design Patterns\ResponsabilityChain-master\ResponsabilityChain\bin\Debug\ResponsabilityChain.exe
+C:\Tareas\Design Patterns\ResponsabilityChain-master\ResponsabilityChain\bin\Debug\ResponsabilityChain.pdb
+C:\Tareas\Design Patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.csprojAssemblyReference.cache
+C:\Tareas\Design Patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.csproj.CoreCompileInputs.cache
+C:\Tareas\Design Patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.exe
+C:\Tareas\Design Patterns\ResponsabilityChain-master\ResponsabilityChain\obj\Debug\ResponsabilityChain.pdb
